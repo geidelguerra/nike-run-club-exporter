@@ -25,7 +25,7 @@ node ./src/index.js open-login-page
 - Store the token using the following command
 
 ```
-node ./src/index.js set-token`
+node ./src/index.js set-token
 ```
 
 - Export your activities. A file named `activities.json` will be created in the current directory
